@@ -1,0 +1,5 @@
+﻿  ConsoleApplication28.cpp
+D:\C++\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(38,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(255,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(296,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication28.vcxproj -> D:\C++\ConsoleApplication28\x64\Debug\ConsoleApplication28.exe
